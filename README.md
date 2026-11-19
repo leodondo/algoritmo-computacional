@@ -1,3 +1,9 @@
-# Algoritmo e Pensamento Computacional
+# Atividades de Algoritmo e Pensamento Computacional
 
-## Meu nome é Leonardo e criei esse repositório para subir todas as atividades que fiz durante essa matéria
+## Repositório destinado à organização das atividades práticas desenvolvidas em aula
+
+## Organização do repositório
+
+### As atividades estão separadas em pastas, organizadas conforme os exercícios e conteúdos desenvolvidos em aula.
+
+## Leonardo Hiroshi Dondo de Freitas - RGM: 46610049
